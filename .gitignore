@@ -1,0 +1,16 @@
+.env
+__pycache__
+data
+.DS_Store
+
+# milvus
+embedEtcd.yaml
+volumes
+
+# pdfs
+*.pdf
+*.json
+
+medivise/ingestion/.streamlit/config.toml
+medivise/ingestion/.streamlit/credentials.toml
+medivise/ingestion/default.sqlite

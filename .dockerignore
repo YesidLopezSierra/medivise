@@ -1,0 +1,6 @@
+.env
+book.pdf
+*.json
+data
+*.pdf
+volumes/**
